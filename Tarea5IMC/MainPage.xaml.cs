@@ -41,7 +41,6 @@ public partial class MainPage : ContentPage
         }
         catch(Exception ex)
         {
-
         }
 
 		res = peso / (estatura * estatura);
