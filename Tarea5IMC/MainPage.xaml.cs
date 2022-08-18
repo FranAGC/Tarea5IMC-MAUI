@@ -36,8 +36,6 @@ public partial class MainPage : ContentPage
             {
                 peso = Convert.ToDouble(txtPeso.Text);
             }
-
-
         }
         catch(Exception ex)
         {
@@ -88,10 +86,6 @@ public partial class MainPage : ContentPage
     {
         txtPeso.Placeholder = "Ingresa tu peso en libras";
     }
-
-
-
-
 
 }
 
